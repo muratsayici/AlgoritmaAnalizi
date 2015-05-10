@@ -1,0 +1,6 @@
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\bin\Debug\max_sum_test.exe.config
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\bin\Debug\max_sum_test.exe
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\bin\Debug\max_sum_test.pdb
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\obj\Debug\max_sum_test.csprojResolveAssemblyReference.cache
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\obj\Debug\max_sum_test.exe
+C:\Users\Murat SAYICI\Desktop\max_sum_test\max_sum_test\obj\Debug\max_sum_test.pdb

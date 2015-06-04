@@ -1,0 +1,6 @@
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\bin\Debug\final_sorusu_8.exe.config
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\bin\Debug\final_sorusu_8.exe
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\bin\Debug\final_sorusu_8.pdb
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\obj\Debug\final_sorusu_8.csprojResolveAssemblyReference.cache
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\obj\Debug\final_sorusu_8.exe
+C:\Users\Murat SAYICI\Desktop\final_sorusu_8\final_sorusu_8\obj\Debug\final_sorusu_8.pdb
